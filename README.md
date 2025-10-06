@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**MayaraPinheir0/MayaraPinheir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Engenheira de Conhecimento e Dados** em formação, unindo minha base sólida em **Ciência da Informação** com a implementação técnica da **Ciência da Computação**.
 
-Here are some ideas to get you started:
+Minha missão é transformar a complexidade da informação em **sistemas de dados eficientes e acessíveis**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Foco Principal: 
+- **Arquitetura da Informação (AI):** Uso de Taxonomia, Metadados e Ontologias para estruturar dados.
+- **Modelagem de Dados:** Aplicação direta da AI para **Bancos de Dados** (SQL/NoSQL) e otimização de sistemas de busca.
+- **Engenharia de Dados:** Construindo *pipelines* e *skills* em **Python** para **Análise de Dados** e preparo de *datasets*.
+
+### 🌱 Atualmente Buscando Desafios em:
+
+✅ **Curadoria e Estruturação Semântica:** Projetos que demandem organização de grandes volumes de informação.
+✅ **Desenvolvimento Back-end (Web):** Onde minhas *skills* em Python/Dados possam suportar a lógica de negócios.
+✅ **Modelagem de Dados e Search Engineering.**
+
+### 🔗 Conecte-se Comigo!
+
+| Plataforma | Link |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayarapinheiro-mcp/) |
+| **Lattes (Pesquisa)** | 🔬 [Meu Currículo Lattes](http://lattes.cnpq.br/5293647984318436) |
+| **Email** | 📧 mayarapinheiro.mcp@gmail.com |
