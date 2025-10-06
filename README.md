@@ -13,12 +13,5 @@ Minha missão é transformar a complexidade da informação em **sistemas de dad
 
 ✅ **Curadoria e Estruturação Semântica:** Projetos que demandem organização de grandes volumes de informação.
 ✅ **Desenvolvimento Back-end (Web):** Onde minhas *skills* em Python/Dados possam suportar a lógica de negócios.
-✅ **Modelagem de Dados e Search Engineering.**
+✅ **Modelagem de Dados e Search Engineering:** Otimização da forma como a informação é armazenada e recuperada.
 
-### 🔗 Conecte-se Comigo!
-
-| Plataforma | Link |
-| :--- | :--- |
-| **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayarapinheiro-mcp/) |
-| **Lattes (Pesquisa)** | 🔬 [Meu Currículo Lattes](http://lattes.cnpq.br/5293647984318436) |
-| **Email** | 📧 mayarapinheiro.mcp@gmail.com |
