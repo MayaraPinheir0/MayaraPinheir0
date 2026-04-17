@@ -16,4 +16,4 @@ Atualmente, o foco está na consolidação de:
 Acompanho meu progresso técnico através do [Python Roadmap](https://roadmap.sh/python).
 
 ---
-[LinkedIn]([SEU_LINK_AQUI](https://www.linkedin.com/in/mayarapinheiro-mcp/)) | [Lattes](SEU_LINK_AQUI)
+[LinkedIn](https://www.linkedin.com/in/mayarapinheiro-mcp/) | [Lattes](SEU_LINK_AQUI)
