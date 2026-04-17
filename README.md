@@ -1,5 +1,19 @@
-## Olá! 👋
+> "A informação só se torna conhecimento quando estruturada com lógica."
 
-Sou Mayara, de Ananindeua/PA. Tenho uma trajetória que conecta informação, tecnologia e inquietação criativa. Sou graduada em Biblioteconomia, mestre em Ciência da Informação e atualmente curso Ciência da Computação. Sou movida por problemas e curiosidades — gosto de entender como as coisas funcionam, por que funcionam, e como podem funcionar melhor. Acredito que a tecnologia é uma ferramenta poderosa para transformar ideias em soluções reais, e estou sempre em busca de novos aprendizados e desafios.
+Este repositório é o meu espaço de estudo e prática. Aqui, organizo o que venho aprendendo na transição da Ciência da Informação para a Computação, focando em construir uma base sólida de lógica e estruturação de dados.
 
+### 👤 Sobre mim
+Sou **Mayara Pinheiro**, moro no Pará/Brasil. Sou graduada em Biblioteconomia, mestre em Ciência da Informação e atualmente graduanda em Ciência da Computação. 
 
+---
+
+### 🛠️ O que estou estudando:
+Atualmente, o foco está na consolidação de:
+* Lógica de programação e controle de fluxo.
+* Estruturas de dados (Collections).
+* Organização de código para automação.
+
+Acompanho meu progresso técnico através do [Python Roadmap](https://roadmap.sh/python).
+
+---
+[LinkedIn]([SEU_LINK_AQUI](https://www.linkedin.com/in/mayarapinheiro-mcp/)) | [Lattes](SEU_LINK_AQUI)
